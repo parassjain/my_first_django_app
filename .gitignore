@@ -1,1 +1,6 @@
-polls/__pycache__/urls.cpython-38.pyc
+venv
+*.pyc
+staticfiles
+.env
+db.sqlite3
+getting-started/*
